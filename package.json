@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "A GitHub user search field demo in React",
-  "homepage": "http://radiovisual.github.io/react-github-user-select-demo",
+  "homepage": "https://radiovisual.github.io/react-github-user-select-demo/",
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.8.4"

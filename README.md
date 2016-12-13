@@ -4,7 +4,7 @@
 
 Just a quick demo of an auto-complete field in [React](https://github.com/facebook/react) using custom HTML option fields in [React-Select](https://github.com/JedWatson/react-select).
 
-:smile: [Live Demo](http://radiovisual.github.io/react-github-user-select-demo)
+:smile: [Live Demo](https://radiovisual.github.io/react-github-user-select-demo/)
 
 ## Usage
 
@@ -24,7 +24,7 @@ Type any GitHub username in the input field to search for GitHub Users. You can 
 - [x] Input placeholder
 - [x] Custom HTML Input Options
 
-**Note:** This demo does not use a GitHub API access token, so you might find some occasional throttling in the [live demo](http://radiovisual.github.io/react-github-user-select-demo).
+**Note:** This demo does not use a GitHub API access token, so you might find some occasional throttling in the [live demo](https://radiovisual.github.io/react-github-user-select-demo/).
 
 ## License
 
