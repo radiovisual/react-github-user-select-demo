@@ -5,6 +5,7 @@
   "description": "A GitHub user search field demo in React",
   "homepage": "http://radiovisual.github.io/react-github-user-select-demo",
   "devDependencies": {
+    "gh-pages": "^0.12.0",
     "react-scripts": "0.8.4"
   },
   "dependencies": {
